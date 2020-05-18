@@ -1,0 +1,7 @@
+h2,th{
+  color:red
+}
+td,tr,th
+{
+  border: 10px solid black
+}
